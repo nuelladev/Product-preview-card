@@ -36,7 +36,8 @@ This project served as a great refresher for my frontend development skills. It 
 ## Author
 
 - GitHub: [@nuelladev](https://github.com/nuelladev)
-- LinkedIn: [@Emmanuellaokafor](https://www.linkedin.com/in/emmanuella-o/))
+- LinkedIn: [@Emmanuellaokafor](https://www.linkedin.com/in/emmanuella-o/)
+
 
 ## Acknowledgments
 
