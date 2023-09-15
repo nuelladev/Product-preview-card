@@ -1,46 +1,43 @@
-# Frontend Mentor - QR Code Component Solution
+# Product Preview Card - Frontend Mentor Challenge
 
-This is a solution to the Product Revies component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+![Screenshot of the Product Preview Card](https://github.com/nuelladev/Product-preview-card/blob/master/Screenshot%20(194).png)
 
-## Table of contents
+**View Live Demo:** [Product Preview Card](https://nuelladev.github.io/Product-preview-card/)
+
+## Table of Contents
 - [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [My process](#my-process)
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
-- [Useful resources](#useful-resources)
+- [My Process](#my-process)
+- [Built With](#built-with)
+- [What I Learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-[Include a brief description of the project and its goals.]
 
-## Screenshot
-![Screenshot of the QR code component](screenshot.png)
-[You can add a description of the screenshot here.]
-
-## Links
-- Solution URL: [Solution](link-to-solution)
-- Live Site URL: [Demo/site](link-to-live-site)
+This project is a solution to the "Product Preview Card" challenge on Frontend Mentor. Frontend Mentor provides a platform for developers to enhance their coding skills by working on real-world projects. The goal of this project was to create a responsive product preview card using HTML and CSS.
 
 ## My Process
-I started off analyzing the fgma design to understand the project requirements. after i have understood the much needed requirements, i launched off by writting my markdown. and  i gave it a nice look by adding my styles. This project was made using vanilla css.
+
+I started by carefully analyzing the Figma design provided in the challenge to understand the project requirements. Once I had a clear understanding of the design, I began by structuring my HTML markup following best practices for semantic HTML5.
+
+I then applied custom CSS to style the card, making it visually appealing and responsive. Flexbox and media queries were used to ensure that the card layout adjusted smoothly to different screen sizes, making it look great on both desktop and mobile devices.
 
 ## Built With
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- media query
+- Media queries
 
 ## What I Learned
-it helped me revisit all the contents  have learnt in the past. Hence, an easy way to refresh my frontend skill. 
 
+This project served as a great refresher for my frontend development skills. It allowed me to revisit and apply the fundamentals of HTML and CSS. Additionally, I gained experience in creating responsive web designs and using media queries to optimize layouts for various screen sizes.
 
-## Author 
-- Github: [@nuelladev](github-link)
-- LinkedIn: [@Emmanuellaokafor](linkedin-link)
+## Author
+
+- GitHub: [@nuelladev](https://github.com/nuelladev)
+- LinkedIn: [@Emmanuellaokafor]((https://www.linkedin.com/in/emmanuella-o/)/)
 
 ## Acknowledgments
 
-[Frontend Mentor](https://www.frontendmentor.io/) - This is a fantastic platform to improve your frontend development skills by taking on challenges and building projects.
+I would like to express my gratitude to Frontend Mentor for providing this valuable learning opportunity. Frontend Mentor's challenges are an excellent way to improve your frontend development skills by working on real-world projects and receiving feedback from the community.
